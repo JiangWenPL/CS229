@@ -1,3 +1,5 @@
+# I drop this project and go to learn CS231n and CS231n
+# Maybe going back to the future or not.
 # CS229
 Learn machine learning based on Stanford CS229.
 ---------
